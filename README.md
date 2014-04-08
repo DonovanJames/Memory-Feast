@@ -14,9 +14,9 @@ Some of the things going on in this program:
 
 1. OpenCV polyLine transform
 2. OpenNI skeleton tracking
-3. OpenGL 3d geometry texture mapping
+3. OpenGL 3D geometry texture mapping
 4. MSAPhysics fluid simulation
-5. Box2D animated 2d geometry
+5. Box2D animated 2D geometry
 
 
 OpenCV polyLine transform
